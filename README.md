@@ -1,0 +1,2 @@
+# FuckGdufeNet
+一个能够发送gdufe校园网网络认证请求的安卓项目，用于解决gdufe校园网断流问题
